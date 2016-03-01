@@ -24,13 +24,3 @@ describe("Calculator", function() {
   });
 
 });
-
-// var returnYes = require("../models/calculator").returnYes;
-
-// describe("returnYes", function() {
-
-//   it("should return Yes", function() {
-//     expect(returnYes()).toBe("Yes");
-//   });
-
-// });

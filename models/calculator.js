@@ -25,7 +25,3 @@ var calculator = function() {
 };
 
 module.exports = calculator;
-
-// exports.returnYes = function() {
-//   return "Yes";
-// };
