@@ -13,7 +13,7 @@ var calculator = function() {
     };
 
     function divide(v1, v2) {
-      return v1 / v2;
+      return v1 / v2 + 0;
     }
 
     return {
@@ -25,3 +25,7 @@ var calculator = function() {
 };
 
 module.exports = calculator;
+
+// exports.returnYes = function() {
+//   return "Yes";
+// };
